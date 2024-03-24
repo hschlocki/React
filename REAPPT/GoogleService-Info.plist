@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAiw6WN5H5JSWlh9BvKZwVM7aFkSO9tufw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>20419277634</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Henri.react.REAPPT</string>
+	<key>PROJECT_ID</key>
+	<string>reactapp-7752f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>reactapp-7752f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:20419277634:ios:acfaab7c8316b7afce8edb</string>
+</dict>
+</plist>
